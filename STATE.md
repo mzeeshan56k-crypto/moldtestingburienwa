@@ -34,7 +34,7 @@ Brand + disclaimer · Services · Areas · Company
 - [x] /gregory-heights/ — H1 "Mold Testing in Gregory Heights" — 1068 words
 - [x] /boulevard-park/ — H1 "Mold Testing in Boulevard Park" — 1059 words
 - [x] /shorewood/ — H1 "Mold Testing in Shorewood" — 1062 words
-- [x] 404.html, robots.txt, sitemap.xml, _headers, README.md, AUDIT.md, preview.html
+- [x] 404.html, robots.txt, sitemap.xml, README.md, AUDIT.md
 
 ## Homepage anchors used
 - "mold testing in Burien": /mold-inspection/, /seahurst/

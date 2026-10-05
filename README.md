@@ -14,8 +14,8 @@ Pure HTML/CSS/vanilla JS. No build step.
 - `/index.html` homepage; each page at `/slug/index.html`
 - `/assets/styles.css`, `/assets/main.js` (deferred), `logo.svg`, `favicon.svg`, `img/`
 - `404.html` served automatically by Cloudflare Pages
-- `_headers` caching + security headers
-- `preview.html` standalone preview (noindex; delete before launch if you like)
+- `vercel.json` caching + security headers, trailing-slash URLs (Vercel)
+- `.vercelignore` keeps the project `.md` docs off the live site
 - `STRATEGY.md`, `STATE.md`, `AUDIT.md` project docs (safe to delete before deploy)
 
 ## Editing
